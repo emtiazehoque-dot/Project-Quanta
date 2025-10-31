@@ -24,13 +24,16 @@ Additional features we are planning to add is the ability to **generate complex 
 
 ## Q&A
 
-1. About Backwards Compatibility
+- About Backwards Compatibility
+
 It means your files won’t break. Opening an Ethium file in a normal Markdown renderer will still show readable content and vice versa. If any feature doesn't work, then it will be marked in a way that it won't get in the main context. 
 
-2. About Generating Complex HTML file
+- About Generating Complex HTML file
+
 This app will be able to generate complex HTML files that can be used as dynamic web page *(to an extent)*. We want to put as much customizability as possible. This feature is mostly from the markdown we are developing, so take a look at `Ethium Markdown project` for more details. 
 
-3. About the platform 
+- About the platform
+
 Initially, the app will run on Windows, macOS, and Linux, with offline-first support. If we make it out alive and get some positive feedback, we might think about other platforms as well. 
 
 ### Contributing
